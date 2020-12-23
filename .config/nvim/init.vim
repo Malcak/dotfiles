@@ -100,11 +100,6 @@ set updatetime=750
 
 " ================================= splits ====================================
 
-" Open new splits easily
-map vv <C-W>v
-map ss <C-W>s
-map qq  <C-W>q
-
 " Open splits on the right and below
 set splitbelow
 set splitright

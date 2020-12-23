@@ -25,6 +25,15 @@ nnoremap <leader>q :bdelete<CR>
 " Clear highlight
 nnoremap <silent> <C-L> :nohlsearch<CR><C-L>
 
+
+" --------------------------------- Splits ------------------------------------
+
+" Open new splits easily
+map vv <C-W>v
+map ss <C-W>s
+map qq  <C-W>q
+
+
 " --------------------------------- Clipboard ---------------------------------
 " Copy to clipboard with <leader> + and
 " vnoremap <leader>y "+y
