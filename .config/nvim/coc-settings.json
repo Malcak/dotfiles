@@ -1,0 +1,13 @@
+{
+  "diagnostic.infoSign": "❕",
+  "diagnostic.hintSign": "❔",
+  "diagnostic.errorSign": "❌",
+  "diagnostic.warningSign": "❗",
+  "coc.preferences.formatOnSaveFiletypes": [
+    "json",
+    "javascript",
+    "typescript",
+    "css",
+    "html"
+  ]
+}
